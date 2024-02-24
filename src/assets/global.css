@@ -1,0 +1,10 @@
+body {
+    background-color: #fff;
+    color: #212121;
+    font-family: Graphik, Tahoma, sans-serif;
+}
+
+.container {
+    width: 970px;
+    margin: 0 auto;
+}
